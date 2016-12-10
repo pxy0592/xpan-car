@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: chatcar
-  host: chatcar
+  name: xpan_chatcar
+  host: xpan_chatcar
   disk_quota: 1024M
